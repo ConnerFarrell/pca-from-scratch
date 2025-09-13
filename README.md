@@ -32,8 +32,9 @@ Component alignment (abs dot products):
  [0. 1.]]
 
 ### Example Plots
-- `images/iris_2d_scratch.png` — PCA 2D projection of Iris dataset  
-- `images/iris_3d_scratch.png` — PCA 3D projection of Iris dataset  
+![Iris PCA (Scratch) - 2D](images/iris_2d_scratch.png)
+![Iris PCA (Scratch) - 3D](images/iris_3d_scratch.png)
+
 
 ## Skills Demonstrated
 - Numerical linear algebra (eigendecomposition, SVD)  
